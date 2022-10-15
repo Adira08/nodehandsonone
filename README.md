@@ -3,7 +3,7 @@
 <h2>1. What is Node JS</h2>
 <p>Node.js is a platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.</p>
 
-<h2>1. What are features of Node js?</h2>
+<h2>2. What are features of Node js?</h2>
 <ul>
         <li>
             <b>Asynchronous and Event Driven : </b> All APIs of Node.js library are asynchronous, that is, non-blocking. It essentially means a Node.js based server never waits for an API to return data. The server moves to the next API after calling it and a notification mechanism of Events of Node.js helps the server to get a response from the previous API call.
